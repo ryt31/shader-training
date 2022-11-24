@@ -18,3 +18,6 @@
 
 - 一律で光の底上げ
 <img src="https://user-images.githubusercontent.com/27854055/203569003-dc4a3464-bf3c-45d8-9661-52d1c31f7361.png" alt="enviroment" width="400"/>
+
+- リムライト
+<img src="https://user-images.githubusercontent.com/27854055/203846370-8c75e1fc-7017-4b83-845a-20140afd3742.png" alt="lim" width="400"/>
