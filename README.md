@@ -24,3 +24,6 @@
 
 - ノーマルマップ
 <img src="https://user-images.githubusercontent.com/27854055/208461845-6f40755f-15e6-46c1-9655-9aa752046f52.png" alt="normal_map" width="400"/>
+
+- スペキュラマップ
+<img src="https://user-images.githubusercontent.com/27854055/208474961-fee4fd68-bdec-4d02-b7aa-2755cc00e82b.png" alt="specular_map" width="400"/>
