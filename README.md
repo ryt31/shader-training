@@ -21,3 +21,6 @@
 
 - リムライト
 <img src="https://user-images.githubusercontent.com/27854055/203846370-8c75e1fc-7017-4b83-845a-20140afd3742.png" alt="lim" width="400"/>
+
+- ノーマルマップ
+<img src="https://user-images.githubusercontent.com/27854055/208461845-6f40755f-15e6-46c1-9655-9aa752046f52.png" alt="normal_map" width="400"/>
