@@ -27,3 +27,6 @@
 
 - スペキュラマップ
 <img src="https://user-images.githubusercontent.com/27854055/208474961-fee4fd68-bdec-4d02-b7aa-2755cc00e82b.png" alt="specular_map" width="400"/>
+
+- PBR
+<img src="https://user-images.githubusercontent.com/27854055/208935156-45df545e-bb13-40b5-8351-5fc385b59710.png" alt="specular_map" width="400"/>
