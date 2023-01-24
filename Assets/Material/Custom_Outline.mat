@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Custom_BaseUnlit
+  m_Name: Custom_Outline
   m_Shader: {fileID: 4800000, guid: 2ab6c4b6014d64115acac4bf34df7f01, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -29,7 +29,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _OutLineOffset: 0.02
+    - _OutLineOffset: 0.04
     - _ScrollX: 1
     - _ScrollY: 0.5
     m_Colors:
