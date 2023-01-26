@@ -30,3 +30,16 @@
 
 - PBR
 <img src="https://user-images.githubusercontent.com/27854055/208935156-45df545e-bb13-40b5-8351-5fc385b59710.png" alt="specular_map" width="400"/>
+
+- アウトライン付きシルエットシェーダー
+
+https://youtu.be/EJ3maae0DBc
+
+![アウトライン付きシルエットシェーダー](https://user-images.githubusercontent.com/27854055/214882097-98db808e-6d97-4033-8f49-0922380fcf22.gif)
+
+- テクスチャを貼れる影シェーダー
+
+https://youtu.be/jBscdS5eLF8
+
+![テクスチャを貼れる影シェーダー](https://user-images.githubusercontent.com/27854055/214882130-aaafe177-f1c6-4154-9e5d-b927a65a633f.gif)
+
